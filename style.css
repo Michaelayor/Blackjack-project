@@ -1,0 +1,274 @@
+.btn1{
+    border: none;
+    background-color: red;
+    border-radius: 8px;
+    cursor: pointer;
+    justify-content: space-between;
+    padding: 12px 35px;
+    color: white;
+    align-items: center;
+    font-family: cursive;
+}
+.btn2{
+    border: none;
+    background-color: blue;
+    cursor: pointer;
+    padding: 12px 35px;
+    align-items: center;
+    border: none;
+    color: white;
+    font-family: cursive;
+    border-radius: 8px;
+    box-shadow: 20%;
+}
+.btn3{
+    border: none;
+    background-color: green;
+    cursor: pointer;
+    padding: 12px 35px;
+    margin: 20px ;
+    align-items: center;
+    border: none;
+    color: white;
+    font-family: cursive;
+    border-radius: 8px;
+    box-shadow: 20%;
+}
+.btn-4{
+    border: none;
+    background-color: blue;
+    cursor: pointer;
+    padding: 12px 35px;
+    margin: 20px ;
+    align-items: center;
+    justify-content: space-between;
+    border: none;
+    color: white;
+    font-family: cursive;
+    border-radius: 8px;
+    box-shadow: 20%;
+}
+.btn-5{
+    border: none;
+    background-color:red;
+    cursor: pointer;
+    padding: 12px 35px;
+    justify-content: space-between;
+    margin: 20px ;
+    align-items: center;
+    border: none;
+    color: white;
+    font-family: cursive;
+    border-radius: 8px;
+    box-shadow: 20%;
+}
+.btn-6{
+    border: none;
+    background-color: rgb(254, 242, 13);
+    cursor: pointer;
+    padding: 12px 35px;
+    justify-content: space-between;
+    margin: 20px ;
+    align-items: center;
+    border: none;
+    color: white;
+    font-family: cursive;
+    border-radius: 8px;
+    box-shadow: 20%;
+}
+.btn0{
+    border: none;
+    background-color: rgb(254, 242, 13);
+    cursor: pointer;
+    padding: 12px 35px;
+    justify-content: space-between;
+    margin: 20px ;
+    align-items: center;
+    border: none;
+    color: white;
+    font-family: cursive;
+    border-radius: 8px;
+    box-shadow: 20%;
+}
+.btn9{
+    border: none;
+    background-color: rgb(254, 242, 13);
+    cursor: pointer;
+    padding: 12px 35px;
+    justify-content: space-between;
+    margin: 20px ;
+    align-items: center;
+    border: none;
+    color: white;
+    font-family: cursive;
+    border-radius: 8px;
+    box-shadow: 20%;  
+}
+.btn-7{
+    border: none;
+    background-color:green;
+    cursor: pointer;
+    padding: 12px 35px;
+    justify-content: space-between;
+    margin: 20px ;
+    align-items: center;
+    border: none;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 8px;
+    box-shadow: 20%;
+}
+.flex-box-container-1{
+    border: 3px solid blue;
+    display: flex;
+    padding: 30px;
+    justify-content: space-around;
+}
+.flexer{
+    display: flex;
+    padding: 30px;
+    justify-content: space-around;
+}
+.flex-box-container-1 div {
+    padding: 10px;
+}
+.container-1{
+    padding: 10px;
+    background-color: black;
+}
+h2{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+h3{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:black;
+    font-size: 2rem;
+}
+.mike{
+    margin: 0 auto;
+    width: 70%;
+}
+
+.container-2{
+    padding: 10px;
+    background-color: black;
+}
+
+.flex-box-container-2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.flex-box-container-2 img{
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    box-shadow: 0px, 10px, 50px, rgba(0, 0, 0, 0.7);
+    margin: 10px;
+}
+.hh{
+    background-color: black;
+    padding: 12px;
+    height: 55px;
+    margin: 0 auto;
+}
+.container-3{
+    padding: 10px;
+    background-color: black;
+}
+.flex-box-rps img:hover{
+    box-shadow: 0px 10px 50px rgba(37, 50, 233, 1);
+}
+.flex-box-rps{
+    display: flex;
+   justify-content: space-around;
+   flex-wrap: wrap;
+   padding: 10px;
+   flex-direction: row;
+}
+.container-4{
+    padding: 10px;
+    background-color: black;
+}
+.container-5{
+    padding: 10px;
+    background-color: black; 
+}
+
+.flex-box-pick-color{
+    display: flex;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.flex-jackrow-1{
+    display: flex;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around; 
+}
+.backdrop{
+    padding: 12px 35px;
+    margin: 20px;
+    border-radius: 8px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+.flex-jackrow-1{
+    text-align: center;
+    margin: 0% auto;
+}
+.flex-jackrow-1 div{
+    border: 1px solid white;
+    padding: 10px;
+    height: 350px;
+    flex: 1;
+    text-align: center;
+}
+.flex-jackrow-1 img {
+    width: 17%;
+    padding: 10px;
+}
+.flex-jackrow-1, .flex-black-jack-row-2{
+    background:url(file:///C:/Users/HP/Documents/new%20js/green.jpg.jpg) center;
+    color: white;
+}
+.flex-black-jack-row-2{
+    text-align: center;
+    margin: 0% auto;
+    display: flex;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around; 
+}
+.flex-blackjack-row-3{
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.flex-black-jack-row-2 div{
+    border: 1px solid white;
+    padding: 15px;
+}
+.flex-black-jack-row-2 button{
+    border: 1px solid black;
+    padding: 10px;
+}
+.pata{
+    border: 1px solid black;
+}
+ th, td{
+    padding: 5px;
+    color: white;
+    background-color: black;
+}
